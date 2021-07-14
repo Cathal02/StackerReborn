@@ -1,0 +1,20 @@
+# Kills the entire mob stack instead of just one
+killEntireStack: false
+
+#Displays the amount of items in a stack on the floor
+displayItemStackAmount: true
+
+#The radius which is searched to look for a matching spawner
+spawnerStackRadius: 1
+
+#Drop spawners if the block explodes
+dropSpawnersOnExplode: false
+
+#If a spawner is mined should the entire stack be dropped?
+dropAllSpawnersOnMine: false
+
+# High mob stacks cause large amounts of server lag, -1 to disable mob stacking
+maxMobStack: 75
+
+# The max spawner stack, -1 to disable
+maxSpawnerStack: 100

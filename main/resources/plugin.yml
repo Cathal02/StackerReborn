@@ -1,0 +1,4 @@
+name: StackerReborn
+version: ${project.version}
+main: org.cathal02.stackerreborn.StackerReborn
+depend: [SilkSpawners, HolographicDisplays]
